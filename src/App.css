@@ -12,7 +12,136 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.mitra{
+   
+  margin-top: 10px;
+  background-image: url('./assets/images/mitra.png');
+  height: 67px;
+  border-radius: 14px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 
+}
+.prakerja{
+  margin-top: 10px;
+  background-image: url('./assets/images/Rectangle.png');
+  height: 92px;
+  border-radius: 14px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.giveaway{
+   
+  margin-top: 10px;
+  background-image: url('./assets/images/giveaway.png');
+  height: 182px;
+  border-radius: 14px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pelatihan {
+  
+  margin-top: 10px;
+  background-image: url('./assets/images/pelatihan.png');
+  height: 189px;
+  border-radius: 14px;
+  width: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Keuangan{
+  
+  background-image: url('./assets/images/keuangan.png');
+  height: 110px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+.K3{
+  
+  background-image: url('./assets/images/K3.png');
+  height: 110px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px;
+}
+.ISO{
+  border-radius: 10px;
+  background-image: url('./assets/images/ISO.png');
+  height: 110px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.banner1{
+  background-image: url('./assets/images/Group 4.png');
+  height: 367px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fakeVideoThumnail{
+  background-image: url('./assets/images/Rectangle\ \(1\).png');
+  height: 400px;
+  width: 810px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-size: cover;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.imageSliderFake{
+  background-image: url('./assets/images/Group\ 4\ Copy\ 4.png');
+  height: 284px;
+  width: 810px;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.footer{
+  
+  text-align: center;
+  background-image: url('./assets/images/Group\ 9.png');
+  height: 800px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.vector{
+  text-align: center;
+  background-image: url('./assets/images/Vector Smart Object.png');
+  height: 367px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,7 +152,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.diskon {
+  height: 600px;
+}
 .App-link {
   color: #61dafb;
 }
